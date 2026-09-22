@@ -27,4 +27,4 @@ Este caderno está vinculado a conteúdos de alta autoridade técnica e visão p
 | 📄 **Artigo** | Google Cloud Discover | *O que são agentes de IA? Definição, exemplos e tipos* | [Ler artigo](https://cloud.google.com/discover/what-are-ai-agents?hl=pt-BR) |
 | 📑 **PDF** | OpenAI | *A Practical Guide to Building AI Agents* (Arquitetura, Tools e Melhores Práticas) | `Disponível no repositório` |
 
-> 💡 **PDF:** O arquivo `a-practical-guide-to-building-agents.pdf` foi adicionado à pasta deste repositório para consulta pública e reprodução deste projeto.
+> 💡 **Notas:** O arquivo `a-practical-guide-to-building-agents.pdf` foi adicionado à pasta deste repositório para consulta pública e reprodução deste projeto.
