@@ -42,10 +42,10 @@ Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabor
 - **Prompt 2 (Prompt 1 + Rastreabilidade):**
   > *"...Além disso, indique em qual fonte veio a informação fornecida. Se for texto, detalhe em qual página encontrou informação. Se for vídeo, indique as horas e minutos."*
 - **Prompt 3 (Modo Imperativo + Lista de passo a passo + Definição de Persona - Versão Final):**
-  > *"Explique o que são agentes de IA e como eles se diferenciam dos chatbots comuns:  
+  > "Explique o que são agentes de IA e como eles se diferenciam dos chatbots comuns:  
   > 1. Explique de uma forma que uma criança de 5 anos entenderia;  
   > 2. Use casos práticos do dia a dia para exemplificar;  
-  > 3. Indique de qual fonte veio a informação fornecida (página para textos e minuto/segundo para vídeos)."*
+  > 3. Indique de qual fonte veio a informação fornecida (página para textos e minuto/segundo para vídeos)."
 
 #### 💡 Aprendizados e "Cicatrizes" do Teste 1:
 - **O poder do modo imperativo:** Comandos diretos são objetivos, específicos, claros e evita ambiguidade. Além de gerar respostas mais estruturadas, economizando tokens e tempo de leitura.
