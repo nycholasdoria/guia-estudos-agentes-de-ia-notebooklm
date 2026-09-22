@@ -28,8 +28,8 @@ Este caderno está vinculado a conteúdos de alta autoridade técnica e visão p
 | 📑 **PDF** | OpenAI | *A Practical Guide to Building AI Agents* (Arquitetura, Tools e Melhores Práticas) | `Disponível no repositório` |
 
 > 💡 **Notas:** O arquivo `a-practical-guide-to-building-agents.pdf` foi adicionado à pasta deste repositório para consulta pública e reprodução deste projeto.
-
 ---
+
 ## 🧪 3. Engenharia de Prompts & "Cicatrizes"
 
 Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabora respostas a versões diferentes de prompt para um mesmo assunto. Essa etapa, apresenta perguntas diretas, comandos imperativos, especificações, definição de persona e restrições.
@@ -37,11 +37,11 @@ Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabor
 ### 🔬 Teste 1: Diferença entre Agentes de IA e Chatbots Tradicionais
 
 #### 🔄 Etapas de Teste:
-- **v1 (Pergunta simples e aberta):**
+- **Prompt 1 (Pergunta simples e aberta):**
   > *"O que são agentes de IA e como eles se diferenciam dos chatbots comuns? Use casos práticos do dia a dia para exemplificar."*
-- **v2 (Adicionando rastreabilidade):**
+- **Prompt 2 (Prompt 1 + Rastreabilidade):**
   > *"...Além disso, indique em qual fonte veio a informação fornecida. Se for texto, detalhe em qual página encontrou informação. Se for vídeo, indique as horas e minutos."*
-- **v3 (Modo Imperativo + Lista de passo a passo + Definição de Persona - Versão Final):**
+- **Prompt 3 (Modo Imperativo + Lista de passo a passo + Definição de Persona - Versão Final):**
   > *"Explique o que são agentes de IA e como eles se diferenciam dos chatbots comuns:  
   > 1. Explique de uma forma que uma criança de 5 anos entenderia;  
   > 2. Use casos práticos do dia a dia para exemplificar;  
