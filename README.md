@@ -65,7 +65,7 @@ Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabor
 
 #### 💡 Aprendizados e "Cicatrizes" do Teste 2:
 - **Restrições negativas funcionam:** Ao proibir a analogia do garçom, o modelo criou a metáfora do **Drive-Thru de Fast-Food**, ilustrando com perfeição o conceito de encapsulamento e parâmetros de entrada/saída (inputs/outputs).
-- **Extração de Arquitetura Real:**  Aqui ocorreu algo interessante. Com prompt refinado forçou a IA a parar de inventar **exemplos abstratos** e buscar os casos reais presentes nas fontes do notebook. Assim, abordou a aplicabilidade prática do assunto de forma mais técnica, o que é essencial para o aprofundamento do assunto.
+- **Extração de Arquitetura Real:**  Aqui ocorreu algo interessante. Com prompt refinado, a IA a parou de inventar **exemplos abstratos** e buscou casos reais presentes nas fontes do notebook. Assim, abordou a aplicabilidade prática do assunto de forma mais técnica, o que é essencial para o aprofundamento do assunto.
   - **Google Geocoding + Google Solar API (GET):** Conversão de endereço e cálculo solar via satélite.
   - **Sales Co-pilot (SerpAPI + Apify + Firecrawl):** Encadeamento de chamadas para prospecção de leads.
   - **Leitura de Recibos (Telegram + Google Sheets + Gmail):** Automação com verificação condicional (disparo de e-mail para despesas acima de $500).
