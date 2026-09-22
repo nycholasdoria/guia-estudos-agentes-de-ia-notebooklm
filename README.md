@@ -27,7 +27,7 @@ Este caderno está vinculado a conteúdos de alta autoridade técnica e visão p
 | 📄 **Artigo** | Google Cloud Discover | *O que são agentes de IA? Definição, exemplos e tipos* | [Ler artigo](https://cloud.google.com/discover/what-are-ai-agents?hl=pt-BR) |
 | 📑 **PDF** | OpenAI | *A Practical Guide to Building AI Agents* (Arquitetura, Tools e Melhores Práticas) | `Disponível no repositório` |
 
-> 💡 **Notas:** O arquivo `a-practical-guide-to-building-agents.pdf` foi adicionado à pasta deste repositório para consulta pública e reprodução deste projeto.
+> 💡 **Nota:** O arquivo `a-practical-guide-to-building-agents.pdf` foi adicionado à pasta deste repositório para consulta pública e reprodução deste projeto.
 ---
 
 ## 🧪 3. Engenharia de Prompts & "Cicatrizes"
@@ -80,3 +80,7 @@ Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabor
 | **Respostas genéricas ou clichês** | A IA repetiu analogias batidas (ex: garçom). | Aplicação de **restrição negativa** explícita (*"sem ser a do garçom"*). | Metáfora original do Drive-Thru, mantendo a didática e o rigor técnico. |
 | **Falta de rastreabilidade das fontes** | Informação correta, mas sem ancoragem comprovada. | Inclusão de **parâmetros de citação estrita** (páginas e timestamps). | Identificação exata no PDF da OpenAI e nos minutos dos vídeos. |
 | **Exemplos puramente teóricos** | "Consultar o tempo" ou "preço de ações". | Comando imperativo exigindo **casos práticos citados nas fontes**. | Extração de arquiteturas completas com múltiplos serviços e métodos HTTP. |
+
+> 💡 **Nota:** O arquivo `Teste-de-prompt.md` foi adicionado à pasta deste repositório para consulta pública e compreensão melhor das análises dos prompts.
+---
+
