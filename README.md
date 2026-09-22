@@ -14,3 +14,17 @@ Utilizando o **Gemini NotebookLM**, foi construída uma base de conhecimento com
 - **Conceitual:** Compreender conceitos básicos dos modelos tradicionais de linguagem (LLMs/Chatbots) e como eles funcionam na prática.
 - **Técnico:** Entender a arquitetura dos agentes, como podem tomar decisões e o uso de ferramentas (tools) via APIs, as famosas Function Calling;
 - **Estratégico / Negócios:** Mapear casos reais de aplicação, automação de fluxos operacionais e modelos de geração de valor para empresas.
+
+## 📚 2. Curadoria de Fontes
+
+Para garantir que o caderno temático fosse ancorado em conteúdo de alta autoridade técnica e visão prática de mercado, foram selecionadas 5 fontes abertas em múltiplos formatos:
+
+| Formato | Fonte / Autor | Título / Tema Principal | Acesso |
+| :---: | :--- | :--- | :---: |
+| 🎬 **Vídeo** | Liam Ottley (YouTube) | *How to Build & Sell AI Agents in 2026: Ultimate Beginner’s Guide* (Conceitos de trabalhadores digitais e casos práticos) | [Assistir](https://www.youtube.com/watch?v=5TxSqvPbnWw) |
+| 🎬 **Vídeo** | YouTube | *Tutorial Prático de Agentes e Automações* | [Assistir](https://www.youtube.com/watch?v=AYQtRqW1xX4) |
+| 📄 **Artigo** | IBM Think | *Guia para Agentes de IA: Conceitos, Arquitetura e Aplicações* | [Ler artigo](https://www.ibm.com/br-pt/think/ai-agents#605511093) |
+| 📄 **Artigo** | Google Cloud Discover | *O que são agentes de IA? Definição, exemplos e tipos* | [Ler artigo](https://cloud.google.com/discover/what-are-ai-agents?hl=pt-BR) |
+| 📑 **PDF** | OpenAI | *A Practical Guide to Building AI Agents* (Arquitetura, Tools e Melhores Práticas) | `Disponível no repositório` |
+
+> 💡 **Nota sobre o PDF:** O arquivo `a-practical-guide-to-building-agents.pdf` foi adicionado diretamente à pasta deste repositório para consulta pública e reprodutibilidade do projeto.
