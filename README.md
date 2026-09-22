@@ -149,16 +149,16 @@ Coleção de prompts validados para acelerar seus estudos sobre automações e a
 
 #### 🔹 Prompt 1: Mapeamento de Arquitetura de Ferramenta
 > *"Atue como um Egenheiro de Soluções em IA. Com base nas fontes, liste quais são os componentes técnicos necessários para criar um agente de [inserir objetivo, ex: atendimento ao cliente no setor imobiliário]. 
-> *Estruture a resposta em:
->  1) Modelo recomendado;
->  2) Lista de Ferramentas/APIs necessárias; e
->  3) Principais riscos operacionais e como mitigá-los."*
+> Estruture a resposta em:
+> 1) Modelo recomendado;
+> 2) Lista de Ferramentas/APIs necessárias; e
+> 3) Principais riscos operacionais e como mitigá-los."*
 
-#### 🔹 Prompt 2: Explicando Conceitos Complexos (Técnica Feynman com Restrição Negativa)
-> *"Explique o funcionamento do conceito de [inserir conceito, ex: Function Calling em LLMs] de forma que uma pessoa não técnica compreenda. Utilize uma analogia cotidiana original (sem recorrer à analogia de garçom ou cardápio) e apresente um exemplo prático aplicado ao mundo dos negócios."*
+#### 🔹 Prompt 2: Explicando Conceitos Complexos (Persona + Restrição Negativa)
+> *"Explique o funcionamento do conceito de [inserir conceito] de forma que uma pessoa não técnica compreenda. Utilize uma analogia cotidiana original (sem recorrer à analogia de garçom ou cardápio) e apresente um exemplo prático aplicado ao mundo dos negócios."*
 
 #### 🔹 Prompt 3: Análise de Viabilidade e ROI de Automação
-> *"Analise o processo de [inserir processo manual da empresa, ex: conciliação de comprovantes de despesas financeiras]. Descreva como um agente de IA automatizaria esse fluxo do início ao fim, indicando quais APIs participam de cada etapa e onde deve haver supervisão humana (Human-in-the-Loop)."*
+> *"Analise o processo de [inserir processo manual da empresa]. Descreva como um agente de IA automatizaria esse fluxo do início ao fim, indicando quais APIs participam de cada etapa e onde deve haver supervisão humana (Fallback)."*
 
 #### 🔹 Prompt 4: Auditoria e Rastreabilidade de Fontes
 > *"Com base estritamente nos materiais fornecidos no caderno, resuma as melhores práticas para desenhar o schema de uma ferramenta para agentes. Indique a página exata dos documentos em PDF e o minuto/segundo dos vídeos onde cada recomendação foi citada."*
