@@ -148,7 +148,11 @@ Para que o agente saiba usar uma API de forma autônoma, ela precisa ser descrit
 Coleção de prompts validados para acelerar seus estudos sobre automações e arquitetura agêntica em qualquer IA (NotebookLM, Claude, ChatGPT, etc.):
 
 #### 🔹 Prompt 1: Mapeamento de Arquitetura de Ferramenta
-> *"Atue como um Arquiteto de Soluções em IA. Com base nas fontes, liste quais são os componentes técnicos necessários para criar um agente de [inserir objetivo, ex: atendimento ao cliente no setor imobiliário]. Estruture a resposta em: 1) Modelo recomendado, 2) Lista de Ferramentas/APIs necessárias com seus métodos HTTP (GET/POST), e 3) Principais riscos operacionais e como mitigá-los."*
+> *"Atue como um Egenheiro de Soluções em IA. Com base nas fontes, liste quais são os componentes técnicos necessários para criar um agente de [inserir objetivo, ex: atendimento ao cliente no setor imobiliário]. 
+> *Estruture a resposta em:
+>  1) Modelo recomendado;
+>  2) Lista de Ferramentas/APIs necessárias; e
+>  3) Principais riscos operacionais e como mitigá-los."*
 
 #### 🔹 Prompt 2: Explicando Conceitos Complexos (Técnica Feynman com Restrição Negativa)
 > *"Explique o funcionamento do conceito de [inserir conceito, ex: Function Calling em LLMs] de forma que uma pessoa não técnica compreenda. Utilize uma analogia cotidiana original (sem recorrer à analogia de garçom ou cardápio) e apresente um exemplo prático aplicado ao mundo dos negócios."*
