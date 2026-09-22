@@ -29,6 +29,7 @@ Este caderno está vinculado a conteúdos de alta autoridade técnica e visão p
 
 > 💡 **Notas:** O arquivo `a-practical-guide-to-building-agents.pdf` foi adicionado à pasta deste repositório para consulta pública e reprodução deste projeto.
 
+---
 ## 🧪 3. Engenharia de Prompts & "Cicatrizes"
 
 Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabora respostas a versões diferentes de prompt para um mesmo assunto. Essa etapa, apresenta perguntas diretas, comandos imperativos, especificações, definição de persona e restrições.
