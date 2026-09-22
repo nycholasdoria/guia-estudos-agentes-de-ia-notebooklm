@@ -103,7 +103,7 @@ Com base no guia prático da OpenAI, todo agente robusto é construído sobre tr
 
 Uma **API** (*Application Programming Interface*) é a ponte de comunicação que permite que diferentes softwares troquem dados de forma padronizada. Para um agente de IA, ter acesso a APIs significa **ganhar braços digitais**: é o que transforma o modelo de um mero gerador de texto em um executor de tarefas no mundo real.
 
-##### 🍔 A Analogia do Drive-Thru
+##### 🍔 A Analogia do Garçom
 Para entender a API de forma simplificada, imagine a ilustração clássica da dinâmica de um **restaurante**:
 * **Você / Cliente (O Agente ou Usuário):** Senta-se à mesa e escolhe o que deseja. Você não entra na cozinha, não precisa saber acender o fogão industrial nem conhecer a receita secreta do chefe.
 * **O Garçom (A API):** É a ponte que anota o seu pedido de acordo com as opções do cardápio, leva a comanda até a cozinha e, depois de pronto, traz o prato de volta à sua mesa.
