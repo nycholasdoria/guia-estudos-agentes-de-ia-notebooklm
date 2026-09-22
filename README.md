@@ -8,7 +8,7 @@ A evolução da Inteligência Artificial ultrapassou as respostas em texto: o me
 Estruturar processos, desenhar fluxos de automação e implementar sistemas agênticos autônomos são áreas de altíssima relevância no mercado de tecnologia atual. Este projeto nasceu da necessidade de explorar e dominar essas tecnologias mais profundamente.
 
 ### 🧠 O "Segundo Cérebro"
-Utilizando o **Gemini NotebookLM**, foi construída uma base de conhecimento com fontes confiáveis (vídeos, documentações da IBM e guias de referência da OpenAi). Esse caderno temático atua como um "segundo cérebro" digital para centralizar, cruzar referências e acelerar o domínio prático sobre o tema.
+Utilizando o **Gemini NotebookLM**, foi construída uma base de conhecimento com fontes confiáveis (vídeos, documentações da IBM e do Google e guias de referência da OpenAi). Esse caderno temático atua como um "segundo cérebro" digital para centralizar, cruzar referências e acelerar o domínio prático sobre o tema.
 
 ### 🎯 Objetivos de Aprendizagem
 - **Conceitual:** Compreender conceitos básicos dos modelos tradicionais de linguagem (LLMs/Chatbots) e como eles funcionam na prática.
@@ -17,7 +17,7 @@ Utilizando o **Gemini NotebookLM**, foi construída uma base de conhecimento com
 
 ## 📚 2. Curadoria de Fontes
 
-Para garantir que o caderno temático fosse ancorado em conteúdo de alta autoridade técnica e visão prática de mercado, foram selecionadas 5 fontes abertas em múltiplos formatos:
+Este caderno está vinculado a conteúdos de alta autoridade técnica e visão prática de mercado, foram selecionadas fontes abertas em diferentes formatos:
 
 | Formato | Fonte / Autor | Título / Tema Principal | Acesso |
 | :---: | :--- | :--- | :---: |
