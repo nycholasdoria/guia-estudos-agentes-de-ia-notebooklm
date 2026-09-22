@@ -48,8 +48,8 @@ Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabor
   > 3. Indique de qual fonte veio a informação fornecida (página para textos e minuto/segundo para vídeos)."
 
 #### 💡 Aprendizados e "Cicatrizes" do Teste 1:
-- **O poder do modo imperativo:** Comandos diretos são objetivos, específicos, claros e evita ambiguidade. Além de gerar respostas mais estruturadas, economizando tokens e tempo de leitura.
-- **Definição de Persona de 5 anos:** Forçou a IA a abandonar jargões e criar a metáfora simples de fácil compreensão como do *"garçom que apenas lê o cardápio"* (chatbot) vs. *"trabalhador digital que executa a tarefa inteira"* (agente).
+- **O poder do modo imperativo:** Comandos diretos são objetivos, específicos, claros e evita ambiguidade. Além disso, eles geram respostas mais estruturadas, economia tokens e tempo de leitura.
+- **Definição de Persona de 5 anos:** Forçou a IA a abandonar termos técnicos e criar a metáfora simples de fácil compreensão como do *"garçom que apenas lê o cardápio"* (chatbot) vs. *"trabalhador digital que executa a tarefa inteira"* (agente).
 - **Rastreabilidade cirúrgica:** O NotebookLM localizou com precisão referências como as páginas 4 e 7 do PDF da OpenAI e o intervalo de 07:00 a 15:00 do vídeo do Liam Ottley. Desse modo, te dá liberdade de consultar o ponto exato do material bruto.
 
 ---
@@ -58,10 +58,10 @@ Foram realizados testes de prompts para explorar como o Gemini NotebookLM elabor
 
 #### 🔄 Etapas de Teste:
 - **Prompt 1 (Zero Shot):**
-  > *"Explique o que é API e como os agentes a usam."*  
+  > "Explique o que é API e como os agentes a usam."
   *Resultado:* Resposta didática, porém insistiu no exemplo do garçom e deu exemplos genéricos de requisições.
 - **Prompt 2 (Restrição Negativa + Citações das Fontes - Versão Final):**
-  > *"Explique o que é API e como os agentes a usam. Seja extremamente didático e utilize outra analogia, sem ser a do garçom para explicar como a API funciona. Mostre casos práticos das chamadas de API citados nas fontes."*
+  > "Explique o que é API e como os agentes a usam. Seja extremamente didático e utilize outra analogia, sem ser a do garçom para explicar como a API funciona. Mostre casos práticos das chamadas de API citados nas fontes."
 
 #### 💡 Aprendizados e "Cicatrizes" do Teste 2:
 - **Restrições negativas funcionam:** Ao proibir a analogia do garçom, o modelo criou a metáfora do **Drive-Thru de Fast-Food**, ilustrando com perfeição o conceito de encapsulamento e parâmetros de entrada/saída (inputs/outputs).
