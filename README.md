@@ -132,14 +132,14 @@ Para que o agente saiba usar uma API de forma autônoma, ela precisa ser descrit
 | Termo | Significado Prático |
 | :--- | :--- |
 | **Agente de IA** | Sistema autônomo baseado em LLM capaz de raciocinar, decompor problemas complexos e executar tarefas usando ferramentas externas. |
-| **Chatbot Tradicional** | Sistema baseado em árvores de decisão ou respostas pré-programadas; reativo e incapaz de realizar ações no mundo real por conta própria. |
+| **Chatbot Tradicional** | Sistema baseado em respostas pré-programadas; reativo e incapaz de realizar ações no mundo real por conta própria. |
 | **API (Interface de Programação)** | Conjunto de regras padronizadas que permite a comunicação e a troca de dados entre diferentes sistemas na internet. |
 | **Tool Use ou Function Calling** | Habilidade do modelo de IA de pausar a geração de texto para invocar funções ou APIs externas para resolver uma tarefa. |
 | **Schema da Ferramenta** | Especificação técnica (geralmente em JSON) contendo nome, descrição da finalidade, parâmetros de entrada (*inputs*) e retorno esperado (*outputs*). |
 | **Requisição GET** | Método HTTP utilizado pelo agente para **consultar ou buscar dados** de um servidor (ex.: verificar horários livres em uma agenda médica). |
 | **Requisição POST** | Método HTTP utilizado pelo agente para **enviar ou gravar dados** em um servidor (ex.: criar um novo lead no CRM ou disparar um e-mail). |
 | **Webhook** | Gatilho automático que envia dados em tempo real para o agente quando um evento acontece (ex.: usuário enviou uma foto de recibo no Telegram). |
-| **Gemini NotebookLM** | Ferramenta do Google de anotações e síntese alimentada por IA, cujo raciocínio é ancorado estritamente nas fontes enviadas pelo usuário. |
+| **Gemini NotebookLM** | Ferramenta do Google de anotações e síntese alimentada por IA, cujo raciocínio é vinculado estritamente nas fontes enviadas pelo usuário. |
 
 ---
 
