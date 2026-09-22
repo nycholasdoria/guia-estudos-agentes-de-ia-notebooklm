@@ -1,4 +1,4 @@
-# guia-estudos-agentes-de-ia-notebooklm
+# Agentes de IA & Automação com Gemini NotebookLM
 
 ## 🎯 1. Contexto e Objetivos
 
